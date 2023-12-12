@@ -12,6 +12,6 @@ This is a simple clicking game built with HTML, CSS, and JavaScript. Click on th
 Feel free to clone the repository and customize the game further!
 
 <div style="text-align: left; width: 50%;">
-  <img src="https://media.giphy.com/media/6onaCKHAw3yNf6h38N/giphy.gif" style="width: 100%;">
+  <img src="https://media.giphy.com/media/6onaCKHAw3yNf6h38N/giphy.gif" style="width: 50%;">
 </div>
 
